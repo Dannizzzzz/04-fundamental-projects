@@ -260,11 +260,6 @@ ul {
 body {
   background: var(--primary-100);
 }
-
-/* * {
-  border: 2px solid red;
-} */
-
 main {
   min-height: 100vh;
   display: flex;
